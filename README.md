@@ -31,8 +31,10 @@ This repository offers an end-to-end solution for evaluating vendor performance 
 
 To use the complete dataset:
 
-- Download **`purchases.csv`** and **`sales.csv`** from:  
-  **[Insert your dataset download link here]**
+- Download **`purchases.csv`** and **`sales.csv`** from:
+  
+  [vendor-performance-analysis-dataset](https://drive.google.com/drive/folders/1FR56UJLNrW_q1Ra4q0kiS7wMQnQLjow3?usp=sharing)
+ 
 - Place these files in the **`data/`** directory, replacing the sample files.
 
 All other required data files are already provided.
