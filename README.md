@@ -13,7 +13,7 @@ This repository offers an end-to-end solution for evaluating vendor performance 
 - **`ingestion_logging.ipynb`**: Tests and demonstrates the data ingestion pipeline.
 - **`logs/`**: Stores runtime logs (auto-generated during execution).
 - **`log_samples/`**: Contains example log files for reference.
-- **`.gitignore`**: Excludes logs, databases, and non-source files from version control.
+- **`.gitignore`**: Excludes non-source files from version control.
 
 ---
 
