@@ -1,4 +1,4 @@
-# Vendor Performance Analysis
+# VendorIQ
 
 This repository offers an end-to-end solution for evaluating vendor performance using purchase, sales, and inventory data. It automates data ingestion into a SQLite database, computes essential vendor metrics, and generates clear visual reports, enabling data-driven decisions on supplier efficiency, profitability, and inventory management. With features like profitability analysis, inventory turnover, and vendor ranking, the system answers key business questions for comprehensive vendor evaluation.
 
@@ -33,7 +33,7 @@ To use the complete dataset:
 
 - Download **`purchases.csv`** and **`sales.csv`** from:
   
-  [vendor-performance-analysis-dataset](https://drive.google.com/drive/folders/1FR56UJLNrW_q1Ra4q0kiS7wMQnQLjow3?usp=sharing)
+  [vendorIQ-dataset](https://drive.google.com/drive/folders/1FR56UJLNrW_q1Ra4q0kiS7wMQnQLjow3?usp=drive_link)
  
 - Place these files in the **`data/`** directory, replacing the sample files.
 
