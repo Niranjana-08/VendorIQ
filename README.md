@@ -46,8 +46,8 @@ All other required data files are already provided.
 1. **Clone the repository:**
    
  ```bash
-git clone https://github.com/yourusername/vendor-performance-analysis.git
-cd vendor-performance-analysis
+git clone https://github.com/Niranjana-08/VendorIQ.git
+cd VendorIQ
    ```
 
 2. **Install dependencies:**
