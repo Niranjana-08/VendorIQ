@@ -25,7 +25,7 @@ This repository offers an end-to-end solution for evaluating vendor performance 
 - **`purchase_prices.csv`**: Vendor product pricing and volume information  
 - **`vendor_invoice.csv`**: Invoice details including freight costs  
 - **`purchases_sample.csv`** / **`purchases.csv`**: Purchase transaction records  
-- **`sales_sample.csv`** / **`sales.csv`**: Sales transaction records  
+- **`sales_sample.csv`** / **`sales.csv`**: Sales transaction-records  
 
 *Due to large file sizes, only sample purchase and sales files are included in the repository.*
 
